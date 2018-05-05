@@ -64,6 +64,12 @@
       <artifactId>guava</artifactId>
       <version>18.0</version>
     </dependency>
+    
+    <dependency>
+      <groupId>org.isomorphism</groupId>
+      <artifactId>token-bucket</artifactId>
+      <version>1.6</version>
+    </dependency>
 
     <dependency>
       <groupId>junit</groupId>
